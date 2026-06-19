@@ -1,5 +1,9 @@
 # CRM Person Tiers
 
+![Community Contribution](https://img.shields.io/badge/OB1_COMMUNITY-Approved_Contribution-2ea44f?style=for-the-badge&logo=github)
+
+**Created by [@alanshurafa](https://github.com/alanshurafa)**
+
 > Standalone person table with a four-tier relationship taxonomy, a mentions join table linking persons to your core `thoughts`, and an RPC that returns per-person tiers with an activity-based promotion rule.
 
 ## What It Does
